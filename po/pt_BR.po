@@ -1,62 +1,66 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: The_Fellowship_of_the_Clay-1.12\n"
+"Project-Id-Version: The_Fellowship_of_the_Clay-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-10-13 04:13+0200\n"
-"PO-Revision-Date: 2012-10-13 04:13+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2012-07-11 00:10+0100\n"
+"Last-Translator: rodrigo\n"
 "Language-Team: none\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRASIL\n"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #. [editor_group]: id=TFotC
 #: The_Fellowship_of_the_Clay/_main.cfg:26
 #: The_Fellowship_of_the_Clay/_main.cfg:163
 msgid "The Fellowship of the Clay"
-msgstr ""
+msgstr "A Irmandade da Argila"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:36
 msgid "TFotC"
-msgstr ""
+msgstr "IrmdA"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:41
 msgid "Knight of the Light "
-msgstr ""
+msgstr "Cavaleiro Luzeiro"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:41
+#, fuzzy
 msgid "(easy)"
-msgstr ""
+msgstr "(fácil)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:42
 msgid "(normal)"
-msgstr ""
+msgstr "(normal)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #. [unit_type]: id=White Knight of the Light, race=human
 #: The_Fellowship_of_the_Clay/_main.cfg:42
 #: The_Fellowship_of_the_Clay/units/Clyde_lev3.cfg:4
 msgid "White Knight of the Light"
-msgstr ""
+msgstr "Alveiro Cavaleiro Luzeiro"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:43
+#, fuzzy
 msgid "(hard)"
-msgstr ""
+msgstr "(difícil)"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #. [unit_type]: id=Bright White Knight of the Light, race=human
 #: The_Fellowship_of_the_Clay/_main.cfg:43
 #: The_Fellowship_of_the_Clay/units/Clyde_lev4.cfg:4
 msgid "Bright White Knight of the Light"
-msgstr ""
+msgstr "Matreiro Alveiro Cavaleiro Luzeiro"
 
 #. [campaign]: id=The_Fellowship_of_the_Clay
 #: The_Fellowship_of_the_Clay/_main.cfg:45
@@ -91,7 +95,7 @@ msgstr ""
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:68
 msgid "story, design"
-msgstr ""
+msgstr "história, design"
 
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:75
@@ -106,7 +110,7 @@ msgstr ""
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:89
 msgid "ideas, suggestions, corrections, testing"
-msgstr ""
+msgstr "idéias, sugestões, correções, teste"
 
 #. [about]
 #: The_Fellowship_of_the_Clay/_main.cfg:95
@@ -229,21 +233,21 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:171
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:217
 msgid "Wehlot Castle"
-msgstr ""
+msgstr "Castelo de Wehlot"
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:80
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:175
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:221
 msgid "Wehlot Harbor"
-msgstr ""
+msgstr "Porto de Wehlot"
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:84
 #: The_Fellowship_of_the_Clay/scenarios/07_Bad_news.cfg:179
 #: The_Fellowship_of_the_Clay/scenarios/17_In_Due_Time.cfg:225
 msgid "Main Gate"
-msgstr ""
+msgstr "Portão Principal"
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:88
@@ -296,7 +300,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:20
 #: The_Fellowship_of_the_Clay/scenarios/18_Epilogue.cfg:49
 msgid "Allies"
-msgstr ""
+msgstr "Aliados"
 
 #. [side]: type=Haldric II, id=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:152
@@ -312,7 +316,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:164
 #: The_Fellowship_of_the_Clay/scenarios/05_Meet_the_dwarfs.cfg:129
 msgid "Orcs"
-msgstr ""
+msgstr "Orcs"
 
 #. [message]: speaker=Haldric II
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:179
@@ -413,7 +417,7 @@ msgstr ""
 #. [unit]: type=Unihorse, id=Snow White
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:253
 msgid "Snow-white"
-msgstr ""
+msgstr "Branca-de-neve"
 
 #. [message]: speaker=Snow White
 #: The_Fellowship_of_the_Clay/scenarios/01_The_assignment.cfg:266
@@ -4261,7 +4265,7 @@ msgstr ""
 #. [message]: speaker=Celand
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1052
 msgid "Thank you, my lord."
-msgstr ""
+msgstr "Obrigado, meu senhor."
 
 #. [message]: speaker=Galion
 #: The_Fellowship_of_the_Clay/scenarios/13_Mountain_plateau.cfg:1096
@@ -4285,7 +4289,7 @@ msgstr ""
 #. [side]: type=Great Troll, type=Troll Hero, id=Bragh
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:119
 msgid "Trolls"
-msgstr ""
+msgstr "Trolls"
 
 #. [side]: type=Great Troll, type=Troll Hero, id=Bragh
 #: The_Fellowship_of_the_Clay/scenarios/14_Dark_Walks-Walks_about_Darkness.cfg:132
@@ -4778,12 +4782,12 @@ msgstr ""
 #. [option]: speaker=Lorelei
 #: The_Fellowship_of_the_Clay/scenarios/15_Army_of_Darkness.cfg:921
 msgid "Hold on a minute."
-msgstr ""
+msgstr "Espere um minuto."
 
 #. [scenario]: id=16_The_three_Towers_of_Mount_Quake
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:5
 msgid "The three Towers of Mount Quake"
-msgstr ""
+msgstr "As três torres do monte Quake"
 
 #. [part]
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:18
@@ -4811,27 +4815,27 @@ msgstr ""
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:237
 msgid "North Tower"
-msgstr ""
+msgstr "Torre Norte"
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:241
 msgid "South Tower"
-msgstr ""
+msgstr "Torre Sul"
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:245
 msgid "Torture Tower"
-msgstr ""
+msgstr "Torre da Tortura"
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:249
 msgid "Mount Quake"
-msgstr ""
+msgstr "Monte Quake"
 
 #. [label]
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:253
 msgid "Mount Avalanche"
-msgstr ""
+msgstr "Monte Avalanche"
 
 #. [message]: speaker=Merdor
 #: The_Fellowship_of_the_Clay/scenarios/16_The_three_Towers_of_Mount_Quake.cfg:305
@@ -5501,12 +5505,12 @@ msgstr ""
 #. [unit_type]: id=Haldric II, race=human
 #: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:4
 msgid "King"
-msgstr ""
+msgstr "Rei"
 
 #. [unit_type]: id=Haldric II, race=human
 #: The_Fellowship_of_the_Clay/units/Haldric_II.cfg:22
 msgid "King of Wesnoth."
-msgstr ""
+msgstr "Rei de Wesnoth."
 
 #. [unit_type]: id=Portal Mage, race=human
 #: The_Fellowship_of_the_Clay/units/Harriett-lvl2.cfg:4
@@ -5536,7 +5540,7 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/units/Harriett-lvl2.cfg:53
 #: The_Fellowship_of_the_Clay/units/Harriett-lvl3.cfg:55
 msgid "missile"
-msgstr ""
+msgstr "míssil"
 
 #. [unit_type]: id=Master of Teleportation, race=human
 #: The_Fellowship_of_the_Clay/units/Harriett-lvl3.cfg:4
@@ -5563,6 +5567,10 @@ msgid ""
 "and wisdom. Quiet and contemplative in times of peace, a High Lord in the "
 "full of his wrath is an awesome sight indeed."
 msgstr ""
+"Os líderes dos elfos possuem uma lealdade de seus súditos que outras raças "
+"sequer sonham, e a ganham com muita sabedoria. Além disso, com a idade, essa "
+"lealdade só tende a aumentar. Quietos e contemplativos em tempos de paz, um "
+"Grande Senhor no topo de sua fúria é uma visão assombrosa. "
 
 #. [unit_type]: id=Lady Dionli, race=elf
 #: The_Fellowship_of_the_Clay/units/Lady_Dionli.cfg:22
@@ -5572,6 +5580,10 @@ msgid ""
 "beautiful stewards of the elven forests epitomize the grace and mystery of "
 "their people."
 msgstr ""
+"A devoção ao seu lado fada acaba por transformar uma elfa donzela em uma "
+"criatura de ambos os mundos. Guiada por uma natureza pouco compreendida, "
+"estas belas servas das florestas élficas são a epítome da graça e mistério "
+"de seu povo. "
 
 #. [unit_type]: id=Mounted Runesmith, race=gryphon
 #: The_Fellowship_of_the_Clay/units/Mounted_Feyndwarf_lvl2.cfg:4
@@ -6006,3 +6018,121 @@ msgstr ""
 #: The_Fellowship_of_the_Clay/utils/mounting.cfg:1131
 msgid "Cancel teleporting mode"
 msgstr ""
+
+#~ msgid "Russian translation"
+#~ msgstr "Tradução russa"
+
+#~ msgid "German translation"
+#~ msgstr "Tradução alemã"
+
+#~ msgid "Music"
+#~ msgstr "Música"
+
+#~ msgid "lightbeam"
+#~ msgstr "raio de luz"
+
+#~ msgid "staff"
+#~ msgstr "bastão"
+
+#~ msgid "hammer"
+#~ msgstr "martelo"
+
+#~ msgid "Dwarvish Runemaster"
+#~ msgstr "Mestre das Runas Anão"
+
+#~ msgid "sword"
+#~ msgstr "espada"
+
+#~ msgid "Elvish High Lord"
+#~ msgstr "Grande Senhor Élfico"
+
+#~ msgid "faerie fire"
+#~ msgstr "fogo das fadas"
+
+#~ msgid "Elvish Marshal"
+#~ msgstr "Marechal Élfico"
+
+#~ msgid "bow"
+#~ msgstr "arco"
+
+#~ msgid "female^Elvish Shyde"
+#~ msgstr "Fada Élfica"
+
+#~ msgid "faerie touch"
+#~ msgstr "toque de fada"
+
+#~ msgid "ensnare"
+#~ msgstr "enredear"
+
+#~ msgid "thorns"
+#~ msgstr "espinhos"
+
+#~ msgid "Elvish Champion"
+#~ msgstr "Campeão Élfico"
+
+#~ msgid ""
+#~ "Those few elves who deliberately hone themselves into weapons of war "
+#~ "become something which belies the peace-loving reputation of their race. "
+#~ "Dedication and skill are matched with purity of form, and the result is "
+#~ "swordsmanship to which few can compare. Even their archery, treated as a "
+#~ "secondary pursuit, is masterfully executed."
+#~ msgstr ""
+#~ "Os poucos elfos que deliberadamente se dedicam às armas de guerra se "
+#~ "tornam algo que trai a reputação dócil de sua raça. Dedicação e "
+#~ "habilidade, unidas à uma pureza de forma, resultam em um domínio do uso "
+#~ "da espada com o qual poucos podem competir. Mesmo o arco, tratado como um "
+#~ "objetivo secundário, é utilizado com maestria."
+
+#~ msgid "Elvish Lord"
+#~ msgstr "Lorde Élfico"
+
+#~ msgid ""
+#~ "The nobility of the elves are possessed of merit to match their standing "
+#~ "in society. Elvish Lords are the wisest and strongest of their people, "
+#~ "and are fearsome in their command of magic."
+#~ msgstr ""
+#~ "A nobreza entre os elfos possui habilidades que igualam seu status dentro "
+#~ "da sociedade. Lordes Élficos são os mais sábios e fortes de seu povo e "
+#~ "são temidos por sua habilidade com a magia. Notas Especiais:Os ataques "
+#~ "desta unidade são mágicos, e sempre têm uma alta chance de acertar um "
+#~ "oponente. O ataque arcano desta unidade causa uma grande quantidade de "
+#~ "dano a criaturas mágicas, e um pouco de dano a criaturas mundanas"
+
+#~ msgid "claws"
+#~ msgstr "garras"
+
+#~ msgid "Gryphon"
+#~ msgstr "Grifo"
+
+#~ msgid ""
+#~ "These majestic and powerful creatures are masters of the sky. Gryphons "
+#~ "are both dangerous and wary of other intelligent creatures, and thus "
+#~ "should not be disturbed without a good reason."
+#~ msgstr ""
+#~ "Parte leão, parte pássaro, essas criaturas majestosas dominam os céus do "
+#~ "mundo. Sendo ariscos com outras raças inteligentes, os Grifos não devem "
+#~ "ser pertubados sem uma boa razão."
+
+#~ msgid "short sword"
+#~ msgstr "espada curta"
+
+#~ msgid "longbow"
+#~ msgstr "arco longo"
+
+#~ msgid "female^Elvish Marksman"
+#~ msgstr "Atiradora Élfica"
+
+#~ msgid "female^Elvish Sharpshooter"
+#~ msgstr "Atiradora de Elite Élfica"
+
+#~ msgid "fangs"
+#~ msgstr "garras"
+
+#~ msgid "web"
+#~ msgstr "teia"
+
+#~ msgid "regenerates"
+#~ msgstr "regenera"
+
+#~ msgid "female^regenerates"
+#~ msgstr "regenera"
